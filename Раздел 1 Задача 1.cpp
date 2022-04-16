@@ -15,7 +15,7 @@ int main()
     double dl = 2 * pi * r;
 
     std::cout << "Длина окружности: " << dl << "\n";
-     std::cout << "Площадь круга: " << s << "\n";
+    std::cout << "Площадь круга: " << s << "\n";
 
     return 0;
 }
